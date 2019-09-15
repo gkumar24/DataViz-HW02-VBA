@@ -1,6 +1,7 @@
 # Home Work Assignment - The VBA of Wall Street
 
 ## Assignment Scope
+
 * Analyzing Stock data for the years 2014, 2015 and 2016. provided in an excel file, with each year in an worksheet.
 
 * Here I used VBA to parse through each of the worksheet, and solved the following.
@@ -18,21 +19,31 @@
   * Code that will loop through each of the years (worksheet)
 
 ### 2014 Stock Summary
+
 ![2014 Stock Summary](2014SnapShot_GaneshkumarG.png)
 
 ### 2015 Stock Summary
+
 ![2015 Stock Summary](2015SnapShot_GaneshkumarG.png)
 
 ### 2016 Stock Summary
+
 ![2016 Stock Summary](2016SnapShot_GaneshkumarG.png)
 
 ### VBA Code to Analyze the data is attached as `.bas` file `VBACode_GaneshkumarG.bas`
 
 ### Detail Summary Images
+
 Complete Summary are added as seperate file, but the image is too big.
+
 `2014CompleteSummary_GaneshkumarG.png`
+
 `2015CompleteSummary_GaneshkumarG.png`
+
 `2016CompleteSummary_GaneshkumarG.png`
   
 ### Thank you 
-  
+
+This work is part of the `VBA Homework assignment` by `UOM Data Analysis and Visualization Bootcamp`.
+
+Submited by : Ganeshkumar Gurunathan
