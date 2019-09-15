@@ -1,4 +1,3 @@
-# DataViz-HW02-VBA
 # Home Work Assignment - The VBA of Wall Street
 
 ## Assignment Scope
@@ -17,6 +16,23 @@
   * Return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
   
   * Code that will loop through each of the years (worksheet)
+
+### 2014 Stock Summary
+![2014 Stock Summary](2014SnapShot_GaneshkumarG.png)
+
+### 2015 Stock Summary
+![2015 Stock Summary](2015SnapShot_GaneshkumarG.png)
+
+### 2016 Stock Summary
+![2016 Stock Summary](2016SnapShot_GaneshkumarG.png)
+
+### VBA Code to Analyze the data is attached as `.bas` file `VBACode_GaneshkumarG.bas`
+
+### Detail Summary Images
+Complete Summary are added as seperate file, but the image is too big.
+`2014CompleteSummary_GaneshkumarG.png`
+`2015CompleteSummary_GaneshkumarG.png`
+`2016CompleteSummary_GaneshkumarG.png`
   
-  
+### Thank you 
   
